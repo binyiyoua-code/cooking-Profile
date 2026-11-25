@@ -1,4 +1,4 @@
-# 宾晓霞的食物作品集
+# 宾cooking profile
 
 静态网页入口：`index.html`
 
