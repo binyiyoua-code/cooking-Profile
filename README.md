@@ -1,5 +1,5 @@
-# 宾cooking profile
+# cooking profile
 
-静态网页入口：`index.html`
+Static Web Portal：`index.html`
 
-页面图片保存在 `assets/food/`，按“自制食物”和“咖啡自测”分类。部署到 GitHub Pages 后，所有图片将随仓库一起公开访问。
+Page images are stored in  `assets/food/`，categorized into "Homemade Food" and "Coffee Self-Assessment." Once deployed to GitHub Pages, all images will be publicly accessible along with the repository.
